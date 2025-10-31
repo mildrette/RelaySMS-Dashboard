@@ -27,7 +27,7 @@ fun TeamShowcaseScreen() {
         TeamMember("Aysha", "QA Tester", "Ensures apps are bug-free", R.drawable.aysha),
         TeamMember("Wisdom", "CEO & Android", "Building both Android and iOS apps and managing Afkanerd", R.drawable.wisdom),
         TeamMember("Favour", "Accountant and logistics person", "Manages finances, budgets, and coordinates logistics for projects", R.drawable.favour),
-        TeamMember("Minet", "Logistic and secretary", "Supports team organization, schedules, and administrative tasks", R.drawable.minet)
+        TeamMember("Minette", "Logistic and secretary", "Supports team organization, schedules, and administrative tasks", R.drawable.minet)
     )
 
     val colors = listOf(
