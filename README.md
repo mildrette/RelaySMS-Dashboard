@@ -3,7 +3,6 @@
 **RelaySMS Dashboard** is an Android Jetpack Compose project that demonstrates a modern, responsive interface for the RelaySMS ecosystem — complete with a **Dashboard**, **Language Selector**, and **Team Showcase**.  
 It was built as part of the **Afkanerd** project to explore clean UI, multi-language support, and team collaboration in Compose.
 
----
 
 ## Features
 
