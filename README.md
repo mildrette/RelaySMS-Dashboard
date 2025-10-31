@@ -1,15 +1,9 @@
 # RelaySMS-Dashboard
 
-**RelaySMS Dashboard** is an Android project built using Jetpack Compose. It shows a clean and modern interface for the RelaySMS ecosystem, including a **Dashboard**, **Language Selector**, and **Team Showcase**.  
-This project was created as part of **Afkanerd** to learn Compose, UI design, and multi-language support.
+**RelaySMS Dashboard** is an Android project built using Jetpack Compose. 
 
-## Features
+It shows a **Dashboard**, **Language Selector**, and **Team Showcase**.  
+I made this to learn and practice what i have learned
 
-- **Dashboard**  
-  View message statistics, recent activity, and perform actions like sending or syncing messages. Messages update automatically between pending, sent, and synced status.
-
-- **Language Selector**  
-  Switch between **English**, **French**, and **Farsi**, with live text changes on the screen.
-
-- **Team Showcase**  
-  Display team members in cards with unique colors, rounded corners, images, and role descriptions.
+NOTE: i do not know what i am doing here and i Hope to contiune practicing and getting better
+ WISH ME LOCK, I WILL REALLY NEED IT 
